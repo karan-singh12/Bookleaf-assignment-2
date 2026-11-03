@@ -11,7 +11,7 @@ Technical take-home assignment 2, Full-Stack Developer position (Bubble + n8n + 
 - **Test author login:** `priya.sharma@email.com` / `Test@1234`
 - **Test admin login:** `diya.chatterjee@email.com` / `Test@1234`
 - **n8n workflow export:** `./n8n/n8n_workflow.json`
-- **Screen recording:** `[Loom URL]`
+- **Screen recording:** https://drive.google.com/file/d/13Cv9vdKKv2dGZJBDIekzseyW5EkvFskj/view?usp=sharing
 
 The app is on Bubble's free plan, using the `version-test` URL. It can be slow to load.
 
